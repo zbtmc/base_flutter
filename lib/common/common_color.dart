@@ -1,0 +1,23 @@
+import 'package:flutter/material.dart';
+
+const COLOR_PRIMARY = Color(0xffFB9F4A);
+const COLOR_2A3250 = Color(0xff2A3250);
+const COLOR_FED584 = Color(0xffFED584);
+const COLOR_F1BC54 = Color(0xffF1BC54);
+const COLOR_29353F = Color(0xff29353F);
+const COLOR_292929 = Color(0xff292929);
+const COLOR_A6CE6A = Color(0xffA6CE6A);
+const COLOR_80_29353F = Color(0x8029353F);
+const COLOR_373738 = Color(0xff373738);
+const COLOR_494949 = Color(0xff494949);
+const COLOR_666666 = Color(0xff666666);
+const COLOR_54_494949 = Color(0x54494949);
+const COLOR_323233 = Color(0xff323233);
+const COLOR_777779 = Color(0xff777779);
+const COLOR_cc_777779 = Color(0xcc777779);
+const COLOR_f2f2f2 = Color(0xfff2f2f2);
+const COLOR_FF6310 = Color(0xffFF6310);
+const COLOR_FFA64B = Color(0xffFFA64B);
+const COLOR_29_FB9F4A = Color(0x29FB9F4A);
+const COLOR_FB9F4A = Color(0xffFB9F4A);
+const COLOR_29_FDCD81 = Color(0x29FDCD81);

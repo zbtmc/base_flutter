@@ -1,0 +1,56 @@
+class CommonString {
+  static const USER_NAME = '用户名';
+  static const HAD_AUTH = '已认证';
+  static const NO_AUTH = '未认证';
+  static const RELATIVE_COURSE = '关联课程';
+  static const MONEY_UNIT = '￥';
+  static const WANT_STUDY = '我要学习';
+  static const CANCEL = '取消';
+  static const CONFIRM = '确定';
+  static const STUDY_CENTER = '学习中心';
+  static const LEARNING_COURSE = '在学课程';
+  static const HAD_BUY_COURSE = '已购买课程';
+  static const AUNT_LEARNING_COURSE = '阿姨们都在学这些课程';
+  static const NO_LEARNING_COURSE = '您还没有开始学习，看看这些课程吧';
+  static const HAD_NO_BUY_COURSE = '您还没有购买课程，这些课程可以帮助您提升专业技能，更容易找到工作';
+  static const KEEP_LEARN_COURSE = '继续学习这些课程，可以帮助您提升专业技能，更容易找到工作';
+  static const INPUT_OLD_PWD = '请输入原始密码';
+  static const INPUT_NEW_PWD = '请输入新密码';
+  static const INPUT_NEW_PWD_HINT = '请输入新密码，字母和数字组合，6–12位';
+  static const OPEN_VIP_NOW = '立即开通';
+  static const RENEW_VIP_NOW = '立即续费';
+  static const SERVICE_STATE = '服务状态';
+  static const CHOOSE_WORK_STATE = '选择求职状态';
+  static const WAIT_WORK = '待岗-随时到岗';
+  static const AT_HOME_WORK = '在户-考虑机会';
+  static const LEAVE_WORK = '请假-暂不考虑';
+  static const NOT_IN_COMPANY = '不在该企业?';
+  static const CURRENT_BIND_COMPANY = '当前绑定企业';
+  static const PRIVILEGE_FIRST = '特权1';
+  static const PRIVILEGE_SECOND = '特权2';
+  static const PRIVILEGE_THIRD = '特权3';
+  static const COMMON_QUESTION = '常见问题说明';
+  static const NEW_USER_GET = '新用户专享';
+  static const PRIVILEGE_FIRST_TITLE = '一年内全网全平台免费找工作';
+  static const PRIVILEGE_FIRST_CONTENT = '接单合单服务将由您所属的管家为您提供';
+  static const PRIVILEGE_SECOND_TITLE = '赠送岗前培训课程';
+  static const PRIVILEGE_SECOND_CONTENT = '新人上户秘籍，心中有数，面对上户不害怕';
+  static const PRIVILEGE_THIRD_TITLE = '发放毕业证书及上门证书';
+  static const PRIVILEGE_THIRD_CONTENT = '国内首批职业技能等级认定第三方评价机构，国家认可证书';
+  static const LOCK_WITH_PHONE = '请输入管家手机号码进行绑定';
+  static const INPUT_HOUSE_KEEPER_PHONE = '请输入管家手机号';
+  static const LOCK_COMPANY = '当前绑定企业';
+  static const LOCK_HOUSE_KEEPER = '绑定我的管家';
+  static const UP_VIP = '上户会员';
+  static const UP_VIP_TIP = '全网全国免费接单 赠送岗前证书';
+  static const EXPIRE_TIME = '当前会员有效期至';
+  static const BUY_COURSER = '扫码购买此课程';
+  static const BUY_VIP = '扫码购买上户会员';
+  static const BUY_SMALL_TIP = """小贴士:
+微信分享给自己，在微信中识别二维码进行购买
+ """;
+  static const PLEASE_LOGIN = '请先登录';
+  static const GIVE_CERT = '发证书';
+  static const UNKNOWN_EXCEPTION = '未知异常';
+  static const LOGIN_SUCCESS = '登录成功';
+}
